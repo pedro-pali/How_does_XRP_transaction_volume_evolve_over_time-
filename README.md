@@ -5,6 +5,9 @@ Since 2020 it has been becoming popular the transaction with cryptocoins as Bitc
 In this proyect we analisys one of the top ten usfull and popular: Ripple or XRP, but what is it? and hao is usfull for?
 XRP is a fast, low-cost, and energy-efficient cryptocurrency designed for cross-border payments, operating on the open-source XRP Ledger (XRPL). It serves as a bridge currency for financial institutions to settle transactions in 3–5 seconds without mining, boasting high scalability.
 
+## **Database**
+Check out the webside from Data: (https://www.kaggle.com/datasets/imranbukhari/comprehensive-xrpusd-1m-data?resource=download&select=XRPUSD_1m_Binance.csv)
+
 **What I did here:**
 **Libraries**:
 - Pandas 
